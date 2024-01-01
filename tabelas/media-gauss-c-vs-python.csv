@@ -1,0 +1,3 @@
+"","App","Caso","Threads","Matriz","Media","SD","N"
+"1","gauss","StarPUgauss",1,"a",330.279220724106,12.6058651160516,5
+"2","gs","OpenMPgauss",1,"a",5.4478,0.145097208794656,5

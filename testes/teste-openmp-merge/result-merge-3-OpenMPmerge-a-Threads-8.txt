@@ -1,0 +1,3 @@
+Ordernando...
+	Esta ordenado!
+tempo: 11.040926

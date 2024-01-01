@@ -1,0 +1,2 @@
+Tempo:  505.4193024635315
+Resultado:  ok

@@ -1,0 +1,2 @@
+Duration SEQUENTIAL = 5356ms
+Duration TASK BLOCK PARALLEL = 2767ms

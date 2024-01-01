@@ -1,0 +1,4 @@
+3602
+3602
+Tempo sequential:  712.8007817268372
+Tempo paralelo:  333.61689853668213

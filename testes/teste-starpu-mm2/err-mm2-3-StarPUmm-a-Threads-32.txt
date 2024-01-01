@@ -1,0 +1,65 @@
+[starpu][c3cluster][_perf_model_add_dir] Warning: directory </home/hvherrmann/spack/opt/spack/1-centos7-x86_64_v3/gcc-12.1.0/starpu-1.4.1-yesmvsu7tigyjj34lefzhnlvlhzwinl3/share/starpu/perfmodels/sampling> as set by installation directory does not exist
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 0 was already bound to PU 0
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 16 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 1 was already bound to PU 2
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 17 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 2 was already bound to PU 4
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 18 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 3 was already bound to PU 6
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 19 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 4 was already bound to PU 8
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 20 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 5 was already bound to PU 10
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 21 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 7 was already bound to PU 14
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 23 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 6 was already bound to PU 12
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 22 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 8 was already bound to PU 16
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 24 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 9 was already bound to PU 18
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 25 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 10 was already bound to PU 20
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 26 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 11 was already bound to PU 22
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 27 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 12 was already bound to PU 24
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 28 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 13 was already bound to PU 26
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 29 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 14 was already bound to PU 28
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 30 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Warning: worker 15 was already bound to PU 30
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] and we were told to also bind worker 31 to it.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] This will strongly degrade performance.
+[starpu][c3cluster][_starpu_bind_thread_on_cpu] [c3cluster] Maybe check starpu_machine_display's output to determine what wrong binding happened. Hwloc reported a total of 16 cores and 32 threads, and to use 32 threads from logical 0, perhaps there is misdetection between hwloc, the kernel and the BIOS, or an administrative allocation issue from e.g. the job scheduler?

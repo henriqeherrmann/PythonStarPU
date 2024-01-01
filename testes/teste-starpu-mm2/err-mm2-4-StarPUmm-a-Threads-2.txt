@@ -1,0 +1,1 @@
+[starpu][c3cluster][_perf_model_add_dir] Warning: directory </home/hvherrmann/spack/opt/spack/1-centos7-x86_64_v3/gcc-12.1.0/starpu-1.4.1-yesmvsu7tigyjj34lefzhnlvlhzwinl3/share/starpu/perfmodels/sampling> as set by installation directory does not exist
